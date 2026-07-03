@@ -1,5 +1,13 @@
 # maskot-gwk
 
+![License](https://img.shields.io/badge/License-MIT-green)
+
+Playful 2D mascot toolkit and mini game starter for character-driven apps and lightweight games.
+
+---
+
+ maskot-gwk
+
 > A playful mascot character toolkit and mini game starter for quick, game-like experiences.
 
 `maskot-gwk` is an open-source project born from the **GWK** creative space. It gives you a lightweight, friendly starting point for building character-driven apps, playful interactions, and mini games — without the bloat of a full game engine.
